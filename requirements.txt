@@ -1,9 +1,13 @@
+# requirements.txt
+streamlit
+groq
 fastapi==0.109.2
 uvicorn[standard]
 pydantic==2.5.3
-groq
 langchain-community==0.0.34
 tavily-python
 python-dotenv
+folium
+streamlit-folium
 requests
 python-multipart
